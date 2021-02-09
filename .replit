@@ -1,3 +1,3 @@
-//se agraga el lenguaje mas la carpeta o archivo
-run = "java SumaProductoDosNumeros/main.java"
+
+run = "java DiscusionDeResultados/ejercicio2.java"
 language = "java"
