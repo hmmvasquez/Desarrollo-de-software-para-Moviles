@@ -4,3 +4,5 @@ Ejercicios de clase y laboratorios de la materia de Desarrollo de Software para 
 Esta organizado de forma que cada rama es una guia de laboratorio.
 
 Se esta utilizando Android Studio como IDE y como lenguaje de programación JAVA.
+
+En esta rama se encuentran los resumen de los libros 
